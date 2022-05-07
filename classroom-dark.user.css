@@ -160,3 +160,62 @@ div[guidedhelpid=courseInlineCreatorGH] {
 .cSyPgb {
 	color: #afb1b4 !important;
 }
+
+/* Material Details - "Add a class coment" - Text */
+.Lzdwhd-BrZSOd {
+    color: rgba(255, 255, 255, 0.24);
+}
+
+.O98Lj {
+    color: #fff !important;
+}
+
+/* Class - Upcoming - Background */
+.d4Fe0d {
+    background-color: #1d2125 !important;
+}
+
+/* Class - Upcoming - "Upcoming" */
+.EZrbnd {
+    color: lightgray !important;
+}
+
+/* Class - Add Comment - Background */
+div[guidedhelpid="courseInlineCreatorGH"] {
+	background-color: #1d2125 !important;
+}
+
+/* Class - Add Comment - Input Text */
+.K6Ovqd {
+    color: lightgray !important;
+}
+
+/* Class - Add Comment : Writting - Background */
+.hgjBDc, .vnnr5e .I9OJHe, .vnnr5e .CIy9F {
+    background-color: #1d2125 !important;
+}
+
+/* Class - Add Comment : Writting - Icons */
+.vnnr5e .Aworge, .XpxsVb .Aworge {
+    color: lightgray !important;
+}
+
+/* Class - Add Comment : Writting - Input Text */
+.UQuaGc.RDPZE {
+    color: rgba(255, 255, 255, 0.38) !important;
+}
+
+/* Classwork - List : Hover - Background (It applies to other hovered elements) */
+.WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd, .WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e, .WFUiUb .ZoT1D:hover.j6KDAd, .WFUiUb .ZoT1D:hover.idtp4e, .WFUiUb .ZoT1D:hover .j6KDAd, .WFUiUb .ZoT1D:hover .idtp4e, .WFUiUb .UISY8d-Ysl7Fe:hover, .WFUiUb.MymH0d:hover .UISY8d-Ysl7Fe, .WFUiUb .MymH0d:hover .UISY8d-Ysl7Fe {
+    background-color: #737a75 !important;
+}
+
+/* Classroom - Classwork - List - Date */
+.wCDkmf {
+    color: rgba(255,255,255,.549) !important;
+}
+
+/* Classroom - Classwork - Index */
+.IMvYId:not(.VnOHwf-Wvd9Cc):not(.rUnD6d), .IMvYId:visited:not(.rUnD6d):not(.rUnD6d) {
+    color: rgba(255, 255, 255, 0.55) !important;
+}
