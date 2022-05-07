@@ -46,10 +46,34 @@ li a {
 }
 
 /*
+ * Make background of the card on the homepage dark
+ */
+.Aopndd {
+    background-color: #1d2125 !important;
+}
+
+/*
+ * Make icons at the bottom of the cards on the homepage light
+ */
+.SZ0kZe > div {
+    color: lightgray !important;
+}
+
+/*
  * Make text on the (now dark) cards on the homepage visible easily.
  */
 .jJIbcc {
     color: white !important;
+}
+
+/* Make task due dates light */
+.oBSRLe {
+	color: rgba(255,255,255,.549) !important;
+}
+
+/* Make task names light */
+.apFsO.onkcGd, .apFsO.onkcGd:visited {
+  color: rgba(255,255,255,.87) !important;
 }
 
 /*
@@ -120,4 +144,19 @@ aside[role=complimentry] div ul[guidedhelpid=topicSidebarGH] li {
  */
 div[guidedhelpid=courseInlineCreatorGH] {
     background-color: white !important;
+}
+
+/* Task Details - Description */
+.tLDEHd {
+    color: lightgray !important;
+}
+
+/* Task Details - "Your work" */
+.z3vRcc {
+    color: #d8d9d9 !important;
+}
+
+/* Task Deails - Small Information */
+.cSyPgb {
+	color: #afb1b4 !important;
 }
